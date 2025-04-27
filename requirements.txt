@@ -1,0 +1,3 @@
+certipy-ad
+netexec
+rich
