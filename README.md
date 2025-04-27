@@ -62,4 +62,4 @@ python3 esc1.py -u 'BANKING$' -p 'sidhere' -d retro.vl --dc-ip 10.10.125.203 --d
 
 ## Disclaimer
 
-This toolkit is intended for educational and authorized penetration testing purposes only. Unauthorized use against systems you do not own or have explicit permission to test is illegal and unethical. The author is not responsible for any misuse or damage caused by these tools. Always obtain proper authorization before testing.
+This toolkit is intended for educational and authorized penetration testing purposes only. Unauthorized use against systems you do not own or have explicit permission to test is illegal and unethical. The author is not responsible for any misuse or damage caused by these tools. Always obtain proper authorization before testing. Lastly thanks to the [Raj](https://github.com/RajChowdhury240/ADCSDumper) for the idea for this project. 
